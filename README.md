@@ -1,4 +1,4 @@
-# Ноутбуки GigaChat + RAG + Self-asking и ноутбуки метрик
+# Ноутбуки с моделями GigaChat + RAG + Self-asking и ноутбуки метрик к ним
 **✨ | УрФУ | ИРИТ-РТФ ✨**\
 \
 *Цель работы: улучшение качества ответов языковой модели GigaChat с использованием Retrieval Augmented Generation с помощью self-asking.*
